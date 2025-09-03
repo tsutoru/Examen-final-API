@@ -1,0 +1,14 @@
+openapi: 3.1.0
+info:
+  title: STD24093
+  description: This is a specification of STD24093
+  version: 1.0.0
+servers:
+  - url: 'https://localhost:8000'
+paths:
+  /health:
+    get:
+      responses:
+        200:
+
+  
